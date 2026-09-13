@@ -1,0 +1,25 @@
+# Sahi Apps
+
+Sahi Apps makes simple, offline Android apps built in India. No sign-in, no data
+collection, free with ads. Contact: hello@sahiapps.com
+
+## Apps
+
+- EMI Calculator (https://sahiapps.com/emi-calculator/): calculates loan EMI,
+  SIP, FD and RD for India, e.g. ₹25 lakh at 8.5% for 20 years = ₹21,696/month.
+- Unit Converter (https://sahiapps.com/unit-converter/): converts length,
+  weight, temperature, area, volume, speed, time and data, e.g. 37°C = 98.6°F.
+- Days Until (https://sahiapps.com/days-until/): counts days until or since
+  any date, e.g. days until Diwali or a birthday.
+- Tip Calculator (https://sahiapps.com/tip-calculator/): splits a bill and tip
+  among any number of people, e.g. ₹2,450 bill + 10% tip = ₹673.75 per person
+  for 4 people.
+- Age Calculator (https://sahiapps.com/age-calculator/): finds exact age in
+  years, months and days from a date of birth, plus days to next birthday.
+- BMI Calculator (https://sahiapps.com/bmi-calculator/): calculates BMI, BMR
+  (Mifflin-St Jeor) and daily calories, e.g. BMI = weight(kg) / height(m)^2.
+- GST Calculator (https://sahiapps.com/gst-calculator/): adds or removes GST
+  from an amount and splits CGST/SGST/IGST for India's GST slabs.
+
+Full site: https://sahiapps.com/
+Privacy policy: https://sahiapps.com/privacy.html
