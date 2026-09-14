@@ -20,6 +20,10 @@ collection, free with ads. Contact: hello@sahiapps.com
   (Mifflin-St Jeor) and daily calories, e.g. BMI = weight(kg) / height(m)^2.
 - GST Calculator (https://sahiapps.com/gst-calculator/): adds or removes GST
   from an amount and splits CGST/SGST/IGST for India's GST slabs.
+- Byaj Calculator (https://sahiapps.com/byaj-calculator/): calculates byaj
+  (sekda), simple and compound interest, e.g. ₹2 sekda = 24% per year.
+- Land Area Converter (https://sahiapps.com/land-area-converter/): converts
+  bigha, guntha, katha and other Indian land units, e.g. 1 acre = 40 guntha.
 
 Full site: https://sahiapps.com/
 Privacy policy: https://sahiapps.com/privacy.html
