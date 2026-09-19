@@ -27,6 +27,12 @@ collection, free with ads. Contact: hello@sahiapps.com
 - Voice Recorder (https://sahiapps.com/voice-recorder/): transcribes voice
   recordings offline on-device with speaker labels and translation, e.g.
   Hindi, Tamil, Telugu, Bengali, Kannada, Marathi, Gujarati and more.
+- Invoice Maker (https://sahiapps.com/invoice-maker/): creates invoices and
+  quotations offline with line items, GST, CGST/SGST or IGST, and totals.
+- Vehicle Log (https://sahiapps.com/vehicle-log/): tracks fuel mileage, cost
+  per litre, monthly vehicle spending, and service due dates offline.
+- Shift Tracker (https://sahiapps.com/shift-tracker/): records day and night
+  shifts and calculates regular hours, overtime, and estimated earnings.
 
 Full site: https://sahiapps.com/
 Privacy policy: https://sahiapps.com/privacy.html
