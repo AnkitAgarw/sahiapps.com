@@ -24,6 +24,9 @@ collection, free with ads. Contact: hello@sahiapps.com
   (sekda), simple and compound interest, e.g. ₹2 sekda = 24% per year.
 - Land Area Converter (https://sahiapps.com/land-area-converter/): converts
   bigha, guntha, katha and other Indian land units, e.g. 1 acre = 40 guntha.
+- Voice Recorder (https://sahiapps.com/voice-recorder/): transcribes voice
+  recordings offline on-device with speaker labels and translation, e.g.
+  Hindi, Tamil, Telugu, Bengali, Kannada, Marathi, Gujarati and more.
 
 Full site: https://sahiapps.com/
 Privacy policy: https://sahiapps.com/privacy.html
